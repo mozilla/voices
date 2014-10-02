@@ -43,3 +43,13 @@ We do not password protect the RSS feed.
     #. Enable "Password Protected Status"
     #. Protected Permissions Enable "Allow Administrators"
     #. Enter A Password
+
+Related Posts
+-------------
+
+- Enable plugin (Automatically link if you feel like it.)
+
+- Go to Settings -> Related Posts
+    #. Uncheck “Enable”
+    #. Erase contents of “Heading Text”
+    #. Erase contents of “CSS”
